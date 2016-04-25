@@ -5,8 +5,7 @@
     "name"         : "KerboKatz - SmallUtilities - AutoBalancingLandingLeg",
     "license"      : "restricted",
     "depends": [
-        { "name": "ModuleManager" },
-        { "name": "KerboKatzUtilities", "min_version": "1.2.6" }
+        { "name": "ModuleManager" }
     ],
     "install": [
         {
