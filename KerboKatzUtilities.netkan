@@ -4,6 +4,7 @@
     "$kref"        : "#/ckan/github/Xarun/KerboKatzUtilities",
     "name"         : "KerboKatzUtilities",
     "abstract"     : "Utilities used in all KerboKatz mods.",
+    "author"       : "SpaceTiger",
     "ksp_version"  : "1.1.0",
     "license"      : "restricted",
     "resources": {

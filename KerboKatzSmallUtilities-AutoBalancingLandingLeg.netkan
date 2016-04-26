@@ -1,9 +1,18 @@
 {
     "spec_version" : "v1.4",
     "identifier"   : "KerboKatzSmallUtilities-AutoBalancingLandingLeg",
-    "$kref"        : "#/ckan/spacedock/85",
     "name"         : "KerboKatz - SmallUtilities - AutoBalancingLandingLeg",
+    "$kref"        : "#/ckan/github/Xarun/SmallUtilities/asset_match/SmallUtilities.AutoBalancingLandingLeg.zip",
+    "abstract"     : "Adds thrust to stock jet engines by increasing fuel flow.",
     "license"      : "restricted",
+    "author"       : "SpaceTiger",
+    "ksp_version"  : "1.0.5",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/104505-11-kerbokatz-smallutilities"
+    },
+    "conflicts": [
+        { "name": "KerboKatzSmallUtilities" }
+    ],
     "depends": [
         { "name": "ModuleManager" }
     ],
