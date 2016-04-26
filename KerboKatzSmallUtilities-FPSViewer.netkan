@@ -5,7 +5,7 @@
     "name"         : "KerboKatz - SmallUtilities - FPSViewer",
     "abstract"     : "A simple and easy way to display the current game fps",
     "license"      : "restricted",
-    "author"       : "SpaceTiger",
+    "author"       : [ "SpaceTiger", "SpaceKitty" ],
     "ksp_version"  : "1.1",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/104505-11-kerbokatz-smallutilities"
