@@ -1,8 +1,12 @@
 {
     "spec_version" : "v1.4",
     "identifier"   : "KerboKatzSmallUtilities",
-    "$kref"        : "#/ckan/spacedock/85",
+    "$kref"        : "#/ckan/github/Xarun/SmallUtilities/asset_match/SmallUtilities.zip",
+    "name"         : "KerboKatz - SmallUtilities",
+    "abstract"     : "A bunch of small utilities to make life in kerbal more enjoyable.",
     "license"      : "restricted",
+    "author"       : [ "SpaceTiger", "SpaceKitty" ],
+    "ksp_version"  : "1.1",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/104505-11-kerbokatz-smallutilities"
     },
