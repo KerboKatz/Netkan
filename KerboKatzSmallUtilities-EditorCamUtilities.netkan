@@ -5,6 +5,7 @@
     "name"         : "KerboKatz - SmallUtilities - EditorCamUtilities",
     "abstract"     : "This little tool allows you to switch between the VAB and SPH camera.",
     "license"      : "restricted",
+    "author"       : "SpaceTiger",
     "ksp_version"  : "1.0.5",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/104505-11-kerbokatz-smallutilities"
