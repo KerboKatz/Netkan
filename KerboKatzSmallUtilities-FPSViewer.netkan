@@ -6,6 +6,12 @@
     "abstract"     : "A simple and easy way to display the current game fps",
     "license"      : "restricted",
     "ksp_version"  : "1.1",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/104505-11-kerbokatz-smallutilities"
+    },
+    "conflicts": [
+        { "name": "KerboKatzSmallUtilities" }
+    ],
     "depends": [
         { "name": "KerboKatzUtilities", "min_version": "1.2.6" }
     ],
