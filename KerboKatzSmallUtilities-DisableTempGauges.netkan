@@ -5,7 +5,7 @@
     "name"         : "KerboKatz - SmallUtilities - DisableTempGauges",
     "abstract"     : "Disables Temperature gauges when you go to the flight scene. Press F10 to re-enable them.",
     "license"      : "restricted",
-    "author"       : "SpaceTiger",
+    "author"       : [ "SpaceTiger", "SpaceKitty" ],
     "ksp_version"  : "1.0.5",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/104505-11-kerbokatz-smallutilities"

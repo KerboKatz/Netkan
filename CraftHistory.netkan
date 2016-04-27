@@ -1,8 +1,12 @@
 {
     "spec_version" : "v1.4",
     "identifier"   : "CraftHistory",
-    "$kref"        : "#/ckan/spacedock/82",
-    "$vref"        : "#/ckan/ksp-avc",
+    "$kref"        : "#/ckan/github/Xarun/CraftHistory",
+    "name"         : "CraftHistory",
+    "abstract"     : "Replaces the stock craft loading with a more advanced one allowing categories to be created.",
+    "author"       : [ "SpaceTiger", "SpaceKitty" ],
+    "license"      : "restricted",
+    "ksp_version"  : "1.1.0",
     "license"      : "restricted",
     "depends": [
         { "name": "KerboKatzUtilities", "min_version": "1.2.0" }

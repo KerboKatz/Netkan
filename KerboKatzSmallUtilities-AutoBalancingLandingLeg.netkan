@@ -5,7 +5,7 @@
     "$kref"        : "#/ckan/github/Xarun/SmallUtilities/asset_match/SmallUtilities.AutoBalancingLandingLeg.zip",
     "abstract"     : "Makes your landing legs automatically adjust their suspension in order to keep your craft vertical.",
     "license"      : "restricted",
-    "author"       : "SpaceTiger",
+    "author"       : [ "SpaceTiger", "SpaceKitty" ],
     "ksp_version"  : "1.0.5",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/104505-11-kerbokatz-smallutilities"

@@ -5,7 +5,7 @@
     "$kref"        : "#/ckan/github/Xarun/SmallUtilities/asset_match/SmallUtilities.ModifiedExplosionPotential.zip",
     "abstract"     : "Modifies the explosion potential in order to create bigger or smaller explosions",
     "license"      : "restricted",
-    "author"       : "SpaceTiger",
+    "author"       : [ "SpaceTiger", "SpaceKitty" ],
     "ksp_version"  : "1.0.5",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/104505-11-kerbokatz-smallutilities"
