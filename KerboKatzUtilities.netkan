@@ -5,7 +5,13 @@
     "name"         : "KerboKatzUtilities",
     "abstract"     : "Utilities used in all KerboKatz mods.",
     "author"       : [ "SpaceTiger", "SpaceKitty" ],
-    "ksp_version"  : "1.1.0",
+    "ksp_version_min": "1.1.0",
+    "ksp_version_max": "1.1.1",
+    "resources": {
+        "homepage": "http://kerbokatz.github.io/",
+        "bugtracker"   : "https://github.com/Xarun/KerboKatzUtilities/issues",
+        "repository"   : "https://github.com/Xarun/KerboKatzUtilities"
+    },
     "license"      : "restricted",
     "resources": {
         "bugtracker"   : "https://github.com/Xarun/KerboKatzUtilities/issues",
