@@ -13,10 +13,6 @@
         "repository"   : "https://github.com/Xarun/KerboKatzUtilities"
     },
     "license"      : "restricted",
-    "resources": {
-        "bugtracker"   : "https://github.com/Xarun/KerboKatzUtilities/issues",
-        "repository"   : "https://github.com/Xarun/KerboKatzUtilities"
-    },
     "install" : [
         {
             "find"       : "KerboKatz",
