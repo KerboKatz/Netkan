@@ -6,12 +6,15 @@
     "abstract"     : "A bunch of small utilities to make life in kerbal more enjoyable.",
     "license"      : "restricted",
     "author"       : [ "SpaceTiger", "SpaceKitty" ],
-    "ksp_version"  : "1.1",
+    "ksp_version_min": "1.1.0",
+    "ksp_version_max": "1.1.1",
     "resources": {
-        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/104505-11-kerbokatz-smallutilities"
+        "homepage": "http://kerbokatz.github.io/",
+        "bugtracker"   : "https://github.com/Xarun/SmallUtilities/issues",
+        "repository"   : "https://github.com/Xarun/SmallUtilities"
     },
     "depends": [
-        { "name": "KerboKatzUtilities", "min_version": "1.2.6" }
+        { "name" : "KerboKatzUtilities", "min_version": "1.3.3" }
     ],
     "install": [
         {

@@ -1,9 +1,9 @@
 {
     "spec_version" : "v1.4",
-    "identifier"   : "KerboKatzSmallUtilities-FPSLimiter",
-    "$kref"        : "#/ckan/github/Xarun/SmallUtilities/asset_match/SmallUtilities.FPSLimiter.zip",
-    "name"         : "KerboKatz - SmallUtilities - FPSLimiter",
-    "abstract"     : "Limits the fps (frames per second) while kerbal is running in the background causing it to use less CPU & GPU cycles.",
+    "identifier"   : "KerboKatzSmallUtilities-DestroyAll",
+    "$kref"        : "#/ckan/github/Xarun/SmallUtilities/asset_match/SmallUtilities.DestroyAll.zip",
+    "name"         : "KerboKatz - SmallUtilities - DestroyAll",
+    "abstract"     : "Adds the ability to destroy multiple vessels quickly.",
     "license"      : "restricted",
     "author"       : [ "SpaceTiger", "SpaceKitty" ],
     "ksp_version_min": "1.1.0",
@@ -21,7 +21,7 @@
     ],
     "install": [
         {
-            "find"       : "FPSLimiter",
+            "find"       : "DestroyAll",
             "install_to" : "GameData/KerboKatz/SmallUtilities"
         }
     ]
