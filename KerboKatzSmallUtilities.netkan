@@ -7,7 +7,7 @@
     "license"      : "restricted",
     "author"       : [ "SpaceTiger", "SpaceKitty" ],
     "ksp_version_min": "1.1.0",
-    "ksp_version_max": "1.1.1",
+    "ksp_version_max": "1.1.2",
     "resources": {
         "homepage": "http://kerbokatz.github.io/",
         "bugtracker"   : "https://github.com/Xarun/SmallUtilities/issues",
