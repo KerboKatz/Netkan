@@ -6,6 +6,11 @@
     "abstract"     : "Replaces the stock craft loading with a more advanced one allowing categories to be created.",
     "author"       : [ "SpaceTiger", "SpaceKitty" ],
     "license"      : "restricted",
+    "resources": {
+        "homepage": "http://kerbokatz.github.io/#CraftHistory",
+        "bugtracker"   : "https://github.com/KerboKatz/CraftHistory/issues",
+        "repository"   : "https://github.com/KerboKatz/CraftHistory"
+    },
     "ksp_version"  : "1.0.5",
     "depends": [
         { "name": "KerboKatzUtilities", "min_version": "1.2.0" }
