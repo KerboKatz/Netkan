@@ -7,7 +7,9 @@
     "author"       : [ "SpaceTiger", "SpaceKitty" ],
     "license"      : "restricted",
     "resources": {
-        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/99770-*" 
+        "homepage": "http://kerbokatz.github.io/#CraftHistory",
+        "bugtracker"   : "https://github.com/KerboKatz/CraftHistory/issues",
+        "repository"   : "https://github.com/KerboKatz/CraftHistory"
     },
     "ksp_version"  : "1.0.5",
     "depends": [
