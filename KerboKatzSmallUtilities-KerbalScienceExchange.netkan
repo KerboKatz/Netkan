@@ -1,9 +1,9 @@
 {
     "spec_version"  : "v1.4",
-    "identifier"    : "KerboKatzSmallUtilities-DestroyAll",
-    "$kref"         : "#/ckan/github/Xarun/SmallUtilities/asset_match/SmallUtilities.DestroyAll.zip",
-    "name"          : "KerboKatz - SmallUtilities - DestroyAll",
-    "abstract"      : "Adds the ability to destroy multiple vessels quickly.",
+    "identifier"    : "KerboKatzSmallUtilities-KerbalScienceExchange",
+    "$kref"         : "#/ckan/github/Xarun/SmallUtilities/asset_match/SmallUtilities.KerbalScienceExchange.zip",
+    "name"          : "KerboKatz - SmallUtilities - KerbalScienceExchange",
+    "abstract"      : "This little tool allows you exchange funds for science and vice versa.",
     "license"       : "restricted",
     "author"        : [ "SpaceTiger", "SpaceKitty" ],
     "ksp_version_min"   : "1.2.0",
@@ -24,7 +24,7 @@
     ],
     "install": [
         {
-            "find"       : "DestroyAll",
+            "find"       : "KerbalScienceExchange",
             "install_to" : "GameData/KerboKatz/SmallUtilities"
         }
     ]
