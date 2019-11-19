@@ -16,7 +16,7 @@
     "depends": [
         {
             "name"          : "KerboKatzUtilities",
-            "min_version"   : "1.5.2"
+            "min_version"   : "1.5.2-KSP1.8"
         }
     ],
     "install": [
