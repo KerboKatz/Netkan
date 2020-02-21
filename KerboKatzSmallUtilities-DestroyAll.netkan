@@ -6,8 +6,9 @@
     "abstract"      : "Adds the ability to destroy multiple vessels quickly.",
     "license"       : "restricted",
     "author"        : [ "SpaceTiger", "SpaceKitty" ],
-    "ksp_version_min"   : "1.4.0",
-    "ksp_version_max"   : "1.4.3",
+    "ksp_version"   : "1.8",
+    "x_netkan_staging": true,
+    "x_netkan_staging_reason": "Game version hard-coded in netkan. Please check that it still matches the forum thread.",
     "resources": {
         "homepage": "http://kerbokatz.github.io/",
         "bugtracker"   : "https://github.com/Xarun/SmallUtilities/issues",
